@@ -1,17 +1,6 @@
 # Yahoo! Music Recommendations
 
-### Team:
-**Ashwini Giri**
-M.S, University of Southern California
-USC ID: 5413882039
-agiri@usc.edu
-
-**Tanay Shankar**
-M.S, University of Southern California
-USC ID:5722079960
-tshankar@usc.edu
-
-**Prashant Manja**
-M.S, University of Southern California
-USC ID:3073150764
-manja@usc.edu
+This recommendation system is build using collaborative filtering approach.
+It contains popularity based and Item-based collaborative filtering approaches.
+The data used is from Yahoo! Music. 
+Implemented using KNN method as well.
